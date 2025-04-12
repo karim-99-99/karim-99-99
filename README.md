@@ -9,7 +9,6 @@ A simple and clean task manager:
 - ➕ Add tasks
 - ✅ Mark them done
 - ❌ Delete tasks  
-> Built with `useState` and minimal UI.
 
 ---
 
@@ -19,6 +18,10 @@ A simple front-end product showcase:
 - 🧾 Product listings
 - 🔍 Basic details view  
 > Great for UI prototyping and styling practice.
+
+---
+
+
 
 ---
 
@@ -57,3 +60,9 @@ A simple front-end product showcase:
  ┃   ┣ 📜 fetchDataAPI.js 
  ┗ 📜 README.md
 
+ ---
+
+ 
+🙌 Author
+Karim Hossam
+📧 karimkhamis8888@outlook.com
