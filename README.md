@@ -65,4 +65,4 @@ A simple front-end product showcase:
  
 🙌 Author
 Karim Hossam
-📧 karimkhamis8888@outlook.com
+📧 karimkham294@gmail.com
