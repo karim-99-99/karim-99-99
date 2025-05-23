@@ -9,6 +9,7 @@ A simple and clean task manager:
 - ➕ Add tasks
 - ✅ Mark them done
 - ❌ Delete tasks  
+- app link ((https://todolist-gamma-six-66.vercel.app/))
 
 ---
 
@@ -18,7 +19,7 @@ A simple front-end product showcase:
 - 🧾 Product listings
 - 🔍 Basic details view  
 > Great for UI prototyping and styling practice.
-- app link (https://e-commerce-oqiz-git-main-kareems-projects-28d3146b.vercel.app)
+- app link (https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/)
 ---
 
 
