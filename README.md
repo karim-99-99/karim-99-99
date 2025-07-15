@@ -4,6 +4,16 @@
 
 ## 🧩 What's Inside?
 
+### 🛍️Dashboard USING REACT.JS , Tailwind.css
+📅 Calendar view using react-big-calendar
+📝 Create, update, and delete appointments
+📧 Email notifications via EmailJS
+🌙 Light/Dark mode support
+🔍 Custom date and hour selection
+- app link ([https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/](https://e-commerce-swwh-git-main-kareems-projects-28d3146b.vercel.app/))
+
+---
+
 ### ✅ Todo List App Using  HTML ,CSS , java scribt  
 A simple and clean task manager:
 - ➕ Add tasks
@@ -40,6 +50,21 @@ A simple front-end product showcase:
 
 ## 📂 Folder Structure
 
+📦 ecommerce/
+ ┣ 📂 src/
+ ┃ ┣ 📜 index.css
+ ┃ ┣ 📜 App.css
+ ┃ ┣ 📜 App.jsx
+ ┃ ┣ 📜 main.jsx
+ ┃ ┣ 📜 compenants
+ ┃   ┣ 📜 Header.jsx 
+ ┃   ┣ 📜 Callender.jsx 
+ ┃ ┣ 📜 assests
+ ┃   ┣ 📜 image1.png 
+ ┃   ┣ 📜 image3.png 
+ ┗ 📜 README.md
+
+ 
 📦 root/
  ┣ 📂 dynamic-to-do-list-js/
  ┃ ┣ 📜 index.html
@@ -66,4 +91,4 @@ A simple front-end product showcase:
  
 🙌 Author
 Karim Hossam
-📧 karimkham294@gmail.com
+📧kareemkhamis747@gmail.com
