@@ -5,11 +5,11 @@
 ## 🧩 What's Inside?
 
 ### 🛍️Dashboard USING REACT.JS , Tailwind.css
-📅 Calendar view using react-big-calendar
-📝 Create, update, and delete appointments
-📧 Email notifications via EmailJS
-🌙 Light/Dark mode support
-🔍 Custom date and hour selection
+-📅 Calendar view using react-big-calendar
+-📝 Create, update, and delete appointments
+-📧 Email notifications via EmailJS
+-🌙 Light/Dark mode support
+-🔍 Custom date and hour selection
 - app link ([https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/](https://e-commerce-swwh-git-main-kareems-projects-28d3146b.vercel.app/))
 
 ---
