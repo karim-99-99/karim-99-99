@@ -91,4 +91,4 @@ A simple front-end product showcase:
  
 🙌 Author
 Karim Hossam
-📧kareemkhamis294@gmail.com
+📧kareemkhamis2030@gmail.com
