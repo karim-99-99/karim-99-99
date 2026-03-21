@@ -41,7 +41,7 @@ I'm a **full-stack and mobile developer** based in **Cairo, Egypt**, with hands-
 - ⚡ Fast performance with Vite build system
 
 **Stack:** React.js · Tailwind CSS · Vite · JavaScript  
-**Live:** [e-commerce-git-main-kareems-projects-28d3146b.vercel.app](https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/)
+**Live:** [e-commerce-git-main-kareems-projects-28d3146b.vercel.app]([https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/](https://myecommerce123.vercel.app?_vercel_share=wDm5gngRGnjg90ObOCIe07VEE4ruOV8l))
 
 ---
 
