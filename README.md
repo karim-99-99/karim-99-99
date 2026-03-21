@@ -55,6 +55,7 @@ I'm a **full-stack and mobile developer** based in **Cairo, Egypt**, with hands-
 - 📱 Fully responsive design for all devices
 
 **Stack:** React.js · Django · Python · PostgreSQL · Tailwind CSS
+
 **Live:** [[e-commerce-git-main-kareems-projects-28d3146b.vercel.app](https://karim-khaled.vercel.app?_vercel_share=EJZZqlaL8AVugVb2F5nmxJPfCvwHlQgB)]([https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/](https://karim-khaled.vercel.app?_vercel_share=bgfemqsAfbJ8GwyABsRq7lGq6hjOcyOi))
 
 ---
