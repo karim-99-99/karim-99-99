@@ -45,21 +45,6 @@ I'm a **full-stack and mobile developer** based in **Cairo, Egypt**, with hands-
 
 ---
 
-### 📅 Dashboard & Calendar App
-> Full-featured appointment management dashboard with calendar integration
-
-**What it does:**
-- 📅 Calendar view using `react-big-calendar`
-- 📝 Create, update, and delete appointments
-- 📧 Email notifications via EmailJS
-- 🌙 Light / Dark mode support
-- 🔍 Custom date and hour selection
-
-**Stack:** React.js · Tailwind CSS · EmailJS · react-big-calendar  
-**Live:** [e-commerce-swwh-git-main-kareems-projects-28d3146b.vercel.app](https://e-commerce-swwh-git-main-kareems-projects-28d3146b.vercel.app/)
-
----
-
 ### 🎓 Bedayate — Education Web App
 > An educational platform designed to make learning accessible and engaging
 
@@ -70,8 +55,10 @@ I'm a **full-stack and mobile developer** based in **Cairo, Egypt**, with hands-
 - 📱 Fully responsive design for all devices
 
 **Stack:** React.js · Django · Python · PostgreSQL · Tailwind CSS
+**Live:** [e-commerce-git-main-kareems-projects-28d3146b.vercel.app]([https://e-commerce-git-main-kareems-projects-28d3146b.vercel.app/](https://karim-khaled.vercel.app?_vercel_share=bgfemqsAfbJ8GwyABsRq7lGq6hjOcyOi))
 
 ---
+
 
 ### 📱 Letra — Mobile Learning App
 > A cross-platform mobile application for language and literacy learning
@@ -86,19 +73,6 @@ I'm a **full-stack and mobile developer** based in **Cairo, Egypt**, with hands-
 
 ---
 
-### ✅ Todo List App
-> Clean and simple task manager built with vanilla web technologies
-
-**What it does:**
-- ➕ Add and manage tasks
-- ✅ Mark tasks as done
-- ❌ Delete tasks instantly
-- 💾 Persistent state management
-
-**Stack:** HTML · CSS · JavaScript  
-**Live:** [todolist-gamma-six-66.vercel.app](https://todolist-gamma-six-66.vercel.app/)
-
----
 
 ## 💻 Tech Stack
 
