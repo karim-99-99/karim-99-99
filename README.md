@@ -168,9 +168,11 @@ Available for **freelance** and **full-time roles** worldwide.
 
 <div align="center">
 
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karim-99-99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf)
+![Karim's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karim-99-99&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-99-99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2dd4bf)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karim-99-99&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=karim-99-99&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF)
 
 </div>
 
