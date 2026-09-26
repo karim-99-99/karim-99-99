@@ -2,16 +2,17 @@
 
 # 👋 Hi, I'm Karim Khamis
 
-### Full-Stack Developer & AI/ML Researcher · Cairo, Egypt 🇪🇬
+### AI Automation Engineer & Full-Stack Developer · Cairo, Egypt 🇪🇬
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-karimkhamis.com-teal?style=for-the-badge&logo=vercel&logoColor=white)](https://www.karimkhamis.com)
+[![AI Lab](https://img.shields.io/badge/AI%20Lab-Live%20Demo-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-lab-alpha-five.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kareem--khamis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem-khamis)
 [![Email](https://img.shields.io/badge/Email-kareemkhamis2030@gmail.com-teal?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareemkhamis2030@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201036064417)
 
 ---
 
-**Full-stack developer and AI/ML researcher building web apps, mobile apps, and OCR systems.**
+**AI automation engineer and full-stack developer building RAG systems, tool-using agents, n8n workflows, web apps, mobile apps, and OCR systems.**
 **30+ delivered projects · 98% OCR accuracy · 100% on-time delivery rate.**
 Available for **freelance** and **full-time roles** worldwide.
 
@@ -22,16 +23,32 @@ Available for **freelance** and **full-time roles** worldwide.
 ## 🧑‍💻 About Me
 
 - 🌍 Based in **Cairo, Egypt** — working with clients globally
+- 🤖 Build production **LLM apps**: RAG with citations, LangGraph agents, human-in-the-loop approvals, and **n8n** automations
 - 🎓 **M.Sc. Computer Engineering** (Expected 2028) — AASTMT, research focus: OCR & multilingual document processing
 - 🎓 **B.Sc. Software Engineering** — Ain Shams University, GPA 3.2/4.0
 - 🔬 **Graduate Researcher** — Achieved 98% English OCR accuracy on 800+ labeled samples
-- ⚛️ Specialized in **React, Next.js, React Native, Python, Django, TensorFlow**
+- ⚛️ Specialized in **Next.js, React, React Native, Python, Django, Groq, LangGraph, Docker, Redis**
 - 📦 **30+ projects delivered** over 2.5 years with 100% on-time rate
 - 💼 Open to **freelance projects** and **full-time opportunities**
 
 ---
 
 ## 🚀 Flagship Projects
+
+### 🧪 AI Lab — AI Automation Platform
+> Next.js · TypeScript · Groq · LangGraph · RAG · n8n · Redis · Docker · Zod · Vercel
+
+**The highlights:**
+- 📄 **PDF RAG** with local embeddings, citations, and refusal when retrieval is weak
+- 🤖 **LangGraph research agent** with tool calling, thread memory, and visible steps (plus a manual ReAct loop)
+- ✅ **Human-in-the-loop** queue: edit, approve, or reject AI-drafted emails before Gmail / outbox
+- 🔗 **4 n8n workflows** (support, CRM lead, email, meeting summary) calling the API with idempotency keys
+- 🛡️ Auth, per-IP rate limits, Redis cache, fast/strong model routing, usage & cost dashboard, and prompt-injection guardrails
+
+[![Live](https://img.shields.io/badge/Live-ai--lab-teal?style=flat-square&logo=vercel)](https://ai-lab-alpha-five.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-AI--LAB-181717?style=flat-square&logo=github)](https://github.com/karim-99-99/AI-LAB)
+
+---
 
 ### 🤖 Letra — Custom-Trained OCR Mobile App
 > iOS & Android · TensorFlow · Keras · PaddleOCR · OpenCV · React Native · Expo
@@ -62,6 +79,12 @@ Available for **freelance** and **full-time roles** worldwide.
 
 ## 💼 Experience
 
+### 🧪 AI Automation — Independent Project (AI Lab)
+**Self-directed** · 2026 – Present
+- Built and deployed **AI Lab**: RAG over PDFs, LangGraph agent, editable human approval before send
+- Orchestrated **n8n** webhook workflows against a Next.js AI API (Docker Compose + Redis)
+- Shipped auth, rate limiting, model routing, usage/cost tracking, and LLM guardrails — live on **Vercel**
+
 ### 🔬 Graduate Researcher — OCR & Multilingual Document Processing
 **Arab Academy for Science, Technology & Maritime Transport** · Jul 2025 – Present
 - Achieved **98% English accuracy** and 60% Arabic baseline across 800+ labeled samples
@@ -85,6 +108,15 @@ Available for **freelance** and **full-time roles** worldwide.
 
 ## 💻 Tech Stack
 
+### Applied AI / LLM
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0f766e?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0f766e?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -99,17 +131,23 @@ Available for **freelance** and **full-time roles** worldwide.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Database & Cloud
+### Database, Automation & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20VPS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
@@ -145,6 +183,7 @@ Available for **freelance** and **full-time roles** worldwide.
 | | |
 |---|---|
 | 🌐 Portfolio | [karimkhamis.com](https://www.karimkhamis.com) |
+| 🧪 AI Lab | [ai-lab-alpha-five.vercel.app](https://ai-lab-alpha-five.vercel.app) |
 | 🚀 Qodrateman | [qodrateman.com](https://qodrateman.com) |
 | 📧 Email | [kareemkhamis2030@gmail.com](mailto:kareemkhamis2030@gmail.com) |
 | 💬 WhatsApp | [+20 103 606 4417](https://wa.me/201036064417) |
@@ -156,7 +195,7 @@ Available for **freelance** and **full-time roles** worldwide.
 
 <div align="center">
 
-*Karim Khamis — Full-Stack Developer & AI/ML Researcher · Cairo, Egypt*
-*React · Next.js · React Native · Python · Django · FastAPI · TensorFlow · PostgreSQL*
+*Karim Khamis — AI Automation Engineer & Full-Stack Developer · Cairo, Egypt*
+*RAG · LangGraph · n8n · Groq · Next.js · React · Django · Docker · Redis · TensorFlow*
 
 </div>
